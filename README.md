@@ -1,6 +1,7 @@
 # Hi there, I'm Anton 👋
 
-![Profile Banner](C:\Users\melic\Desktop\banner.png)
+![Profile Banner](https://github.com/user-attachments/assets/772b9864-02ab-4edc-9b97-e261b06c65ac)
+
 
 Welcome to my GitHub profile! I'm a student with a passion for the techspace in general. Here you'll find a collection of my projects, contributions, and some fun stuff I like to work on.
 
