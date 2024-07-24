@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Anton 👋
 
-<!--
-**NightmareFlux/NightmareFlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](path/to/your/banner/image.png)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a student with a passion for the techspace in general. Here you'll find a collection of my projects, contributions, and some fun stuff I like to work on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I’m currently working on: Godot Game
+- 🌱 I’m currently learning: Java
+- 👯 I’m looking to collaborate on: Minecraft mods
+- 🤔 I’m looking for help with: Godot game
+- 💬 Ask me about: Gym&Airsoft
+- 📫 How to reach me: galibzazam@gmail.com
+
+## Skills
+
+-none yet realistically, but I am striving on achieving something.
+
+## Projects
+
+### none yet
+
